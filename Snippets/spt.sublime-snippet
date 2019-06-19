@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+/*----------------------------------*/
+]]></content>
+<tabTrigger>spt</tabTrigger>
+<description>Separatore</description>
+<scope>source.java, meta.class.java, meta.class.body.java, punctuation.section.block.end.java</scope>
+</snippet>
