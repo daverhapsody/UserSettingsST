@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+stampaACapo($1);
+]]></content>
+<tabTrigger>sc</tabTrigger>
+<description>Stampa a Capo</description>
+<scope>source.java, meta.class.java, meta.class.body.java</scope>
+</snippet>
