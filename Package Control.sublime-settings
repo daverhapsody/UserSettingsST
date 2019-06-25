@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Java Velocity",
+		"LaTeX Blindtext",
 		"LaTeX Snippets",
 		"Package Control",
 		"SnippetMaker",
