@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"DeleteBlankLines",
 		"Java Velocity",
 		"LaTeX Snippets",
 		"Package Control",
