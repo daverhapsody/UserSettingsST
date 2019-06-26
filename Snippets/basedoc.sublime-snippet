@@ -1,0 +1,22 @@
+<snippet>
+<content><![CDATA[
+\documentclass[12pt, a4paper]{book}
+\usepackage[italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[latin1]{inputenc}
+\begin{document}
+\author{DaveRhapsody}
+\title{$1}
+\date{$2}
+\maketitle
+\tableofcontents
+\chapter*{Capitolo 1}$3
+\section{Sezione 1 capitolo 1}
+\subsection{SottoSezione 1 Sezione 1 Capitolo 1}
+\end{document}
+]]></content>
+<tabTrigger>basedoc</tabTrigger>
+<description>Crea una base del documento da creare</description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, punctuation.definition.group.brace.end.latex</scope>
+</snippet>

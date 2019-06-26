@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-    "etag": "\"5d1338c3-54988\"", 
-    "last-modified": "Wed, 26 Jun 2019 09:20:03 GMT"
-=======
-    "etag": "\"5d12718b-549d2\"", 
-    "last-modified": "Tue, 25 Jun 2019 19:10:03 GMT"
->>>>>>> a90c32c06bf04b4134a9c38667fecb9739373859
+    "last-modified": "Wed, 26 Jun 2019 12:30:03 GMT", 
+    "etag": "\"5d13654b-54ad6\""
 }
