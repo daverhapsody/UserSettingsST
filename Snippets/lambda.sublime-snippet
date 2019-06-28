@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$\lambda\$
+]]></content>
+<tabTrigger>lambda</tabTrigger>
+<description>Crea automaticamente un frammento blocco matematico con un lambda dentro</description>
+<scope>text.tex.latex</scope>
+</snippet>

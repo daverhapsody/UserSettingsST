@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+	\underline{$1}
+]]></content>
+<tabTrigger>ul</tabTrigger>
+<description>Crea un segmento underline</description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, keyword.other.greek.math.tex, punctuation.definition.backslash.tex</scope>
+</snippet>
