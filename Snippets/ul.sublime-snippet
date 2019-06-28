@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-	\underline{$1}
+\underline{$1}
 ]]></content>
 <tabTrigger>ul</tabTrigger>
 <description>Crea un segmento underline</description>
