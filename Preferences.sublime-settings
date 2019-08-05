@@ -6,5 +6,6 @@
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
-	"theme": "Default.sublime-theme"
+	"theme": "Default.sublime-theme",
+	"word_wrap": "true",
 }
