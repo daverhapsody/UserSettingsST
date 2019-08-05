@@ -7,5 +7,6 @@
 	],
 	"save_on_focus_lost": true,
 	"theme": "Default.sublime-theme",
+	"wrap_width": 80,
 	"word_wrap": "true",
 }
