@@ -15,9 +15,10 @@ iniziamo a clonare la mia git all'interno della cartella **Packages** con:
 git clone https://github.com/daverhapsody/UserSettingsST
 ```
 
-A questo punto potremmo pensare di aver finito, e invece no, colpo di scena!Bisogna attivare package control, pertanto premete **ctrl+shift+p** e digitate inst come da esempio:
+A questo punto potremmo pensare di aver finito, e invece no, colpo di scena!Bisogna attivare package control, pertanto premete **ctrl+shift+p** e digitate inst.
+A quel punto selezionate l'opzione in cui figura di installare il Package Control 
 
-![DeepinScreenshot_seleziona-area_20190920215044](/home/dave/Desktop/DeepinScreenshot_seleziona-area_20190920215044.png)
+------
 
 A questo punto, rimanendo con il programma aperto, vedrete che si installeranno piano piano tutti i super mega iper fantastici plugin :333
 E che plugin ci ho messo? 
