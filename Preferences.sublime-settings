@@ -1,12 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-	"font_size": 18,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"theme": "Default.sublime-theme",
-	"wrap_width": 80,
 	"word_wrap": "true",
+	"wrap_width": 80
 }
