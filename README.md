@@ -1,5 +1,4 @@
 # Impostazioni Sublime-Text 3
-In italiano:
 Ciao, queste sono le impostazioni magiche di Sublime Text di **Dave** :333
 Per prima cosa spostiamoci sulla cartella "**Packages**" di **Sublime Text**, 
 
