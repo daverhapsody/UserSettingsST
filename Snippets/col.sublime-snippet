@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\color{$0}
+]]></content>
+<tabTrigger>col</tabTrigger>
+<description>Colore</description>
+<scope>text.tex.latex, meta.preamble.usepackage.latex, keyword.control.preamble.latex, punctuation.definition.backslash.latex</scope>
+</snippet>
