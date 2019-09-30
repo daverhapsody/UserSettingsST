@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+\newline
+$1
+]]></content>
+<tabTrigger>nl</tabTrigger>
+<description>Newline</description>
+<scope>text.tex.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

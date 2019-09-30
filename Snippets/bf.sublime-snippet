@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\textbf{$1}$2
+]]></content>
+<tabTrigger>bf</tabTrigger>
+<description>Imposta il testo in grassetto</description>
+<scope>text.tex.latex</scope>
+</snippet>

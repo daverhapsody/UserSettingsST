@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+%------------------------------------------------------------------------------
+]]></content>
+<tabTrigger>sepa</tabTrigger>
+<description>separatore del codice</description>
+<scope>text.tex.latex, comment.line.percentage.tex</scope>
+</snippet>
