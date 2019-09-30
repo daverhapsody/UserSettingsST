@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-\color{$0}
+\color{$0}$1
 ]]></content>
 <tabTrigger>col</tabTrigger>
 <description>Colore</description>
