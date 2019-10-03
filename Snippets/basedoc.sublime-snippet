@@ -7,6 +7,7 @@
 \usepackage{amsmath} 
 \usepackage{xcolor}
 \usepackage[margin=0.5in]{geometry}
+\usepackage{hyperref}
 %usepackage[latin1]{inputenc}
 \begin{document}
 \pagestyle{plain}
