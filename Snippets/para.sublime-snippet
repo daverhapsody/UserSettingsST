@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\paragraph{$1}
+]]></content>
+<tabTrigger>para</tabTrigger>
+<description>Crea un paragrafo senza labels</description>
+<scope>text.tex.latex, meta.section.latex, support.function.section.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

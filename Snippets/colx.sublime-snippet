@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\color{$1} $2 \color{black}
+]]></content>
+<tabTrigger>colx</tabTrigger>
+<description>Aggiunge un blocco colore e chiude con il ritorno in nero</description>
+<scope>text.tex.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\int_{lower}^{upper}  
+]]></content>
+<tabTrigger>int</tabTrigger>
+<description>Scrive l'integrale</description>
+<scope>text.tex.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

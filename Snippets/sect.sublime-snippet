@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\section{$1}
+]]></content>
+<tabTrigger>sect</tabTrigger>
+<description>Crea una section senza label</description>
+<scope>text.tex.latex, meta.section.latex, support.function.section.latex, punctuation.definition.backslash.latex</scope>
+</snippet>
