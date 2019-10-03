@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-\textbf{$1}$2
+\textbf{$1}
 ]]></content>
 <tabTrigger>bf</tabTrigger>
 <description>Imposta il testo in grassetto</description>
