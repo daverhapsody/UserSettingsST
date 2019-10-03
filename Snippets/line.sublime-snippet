@@ -1,8 +1,8 @@
 <snippet>
 <content><![CDATA[
-\newline
+\\\
 {\color{$1} \rule{\linewidth}{0.$2mm} }
-\newline
+\\\
 ]]></content>
 <tabTrigger>line</tabTrigger>
 <description>Crea una linea orizzontale di separazione</description>

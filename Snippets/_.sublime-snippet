@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-_{$1}$2
+_{$1}
 ]]></content>
 <tabTrigger>_</tabTrigger>
 <description>Pedice Automatico</description>
