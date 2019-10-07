@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-\color{$1} $2 \color{black}
+\color{${1:Colore}}  \color{black}
 ]]></content>
 <tabTrigger>colx</tabTrigger>
 <description>Aggiunge un blocco colore e chiude con il ritorno in nero</description>

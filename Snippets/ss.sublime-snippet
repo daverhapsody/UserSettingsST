@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\subsection{$1}
+]]></content>
+<tabTrigger>ss</tabTrigger>
+<description>Crea una subsection</description>
+<scope>text.tex.latex, meta.section.latex, punctuation.definition.group.brace.end.latex</scope>
+</snippet>
