@@ -8,6 +8,8 @@
 \usepackage{xcolor}
 \usepackage[margin=1in]{geometry}
 \usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{{./img/}}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,

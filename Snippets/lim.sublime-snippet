@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\lim \limits_{x \to ${1:Tendenza}} ${2:Funzione}
+]]></content>
+<tabTrigger>lim</tabTrigger>
+<description>Crea un blocco codice con dentro un limite</description>
+<scope>text.tex.latex, meta.section.latex, punctuation.definition.group.brace.end.latex</scope>
+</snippet>
