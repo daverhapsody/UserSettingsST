@@ -10,10 +10,7 @@
 \usepackage{hyperref}
 \usepackage{graphicx}
 \graphicspath{{./img/}}
-<<<<<<< HEAD
 \usepackage{tikz}
-=======
->>>>>>> 6e134368228b19044d5bd3942956e38bc364071c
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
