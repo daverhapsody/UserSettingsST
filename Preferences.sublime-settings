@@ -1,6 +1,10 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+<<<<<<< HEAD
 	"font_size": 15,
+=======
+	"font_size": 12,
+>>>>>>> 49f00496511785805f90482fed23452ae80026ef
 	"ignored_packages":
 	[
 		"Vintage"

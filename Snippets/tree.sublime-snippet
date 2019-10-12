@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+\begin{tikzpicture}
+	\node (is-root) {${1:Radice}}
+		[sibling distance = 3cm]
+		child{ node{${2:Nodo}}}
+		child{ node{${3:Nodo}}};
+	node {\textit{${4:Titolo}}};
+\end{tikzpicture}
+]]></content>
+<tabTrigger>tree</tabTrigger>
+<description>Crea un albero sintattico base</description>
+<scope>text.tex.latex, support.function.begin.latex, keyword.control.flow.begin.latex, punctuation.definition.backslash.latex</scope>
+</snippet>
