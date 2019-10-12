@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\overrightarrow{${1:valore}}
+]]></content>
+<tabTrigger>orra</tabTrigger>
+<description>Crea un blocco over right arrow che ti permette di avere la freccia di vettore </description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, support.function.math.tex, punctuation.definition.backslash.tex</scope>
+</snippet>

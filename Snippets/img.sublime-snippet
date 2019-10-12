@@ -4,7 +4,7 @@
 {\color{black} \rule{\linewidth}{0.3mm} }
 \\\
 \textbf{${1:Titolo}} \\\ \\\
-\$\$\includegraphics[width=0.50\textwidth]{${2:Immagine}}\$\$
+\$\$\includegraphics[width=0.75\textwidth]{${2:Immagine}}\$\$
 ${3:Descrizione} \\\
 {\color{black} \rule{\linewidth}{0.3mm} }
 \\\
