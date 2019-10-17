@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+\\
+{\color{black} \rule{\linewidth}{0.3mm} }
+\\
+\$\$\includegraphics[width=0.75\textwidth]{${1:Immagine}}\$\$
+\\
+{\color{black} \rule{\linewidth}{0.3mm} }
+\\
+]]></content>
+<tabTrigger>imgnodesc</tabTrigger>
+<description>Crea un blocco immagine PERO' senza descrizione e titoli</description>
+<scope>text.tex.latex, constant.character.newline.latex</scope>
+</snippet>

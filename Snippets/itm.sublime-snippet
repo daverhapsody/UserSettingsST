@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\item 
+]]></content>
+<tabTrigger>itm</tabTrigger>
+<description>Scrive il blocco item dell'itemize o enum</description>
+<scope>text.tex.latex, meta.environment.list.enumerate.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

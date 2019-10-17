@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\implies
+]]></content>
+<tabTrigger>impl</tabTrigger>
+<description>Crea il comando \implies</description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, support.function.math.tex, punctuation.definition.backslash.tex</scope>
+</snippet>
