@@ -34,5 +34,9 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
+# Ignores slides and temporary stuff
+
+Temp/
+
 # End of https://www.gitignore.io/api/sublimetext
 
