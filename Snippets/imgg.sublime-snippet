@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$\$\includegraphics[width=0.75\textwidth]{${1:Nome immagine}}\$\$
+]]></content>
+<tabTrigger>imgg</tabTrigger>
+<description>Scrive l'include graphics e basta, senza tutto il casino insomma</description>
+<scope>text.tex.latex, meta.environment.math.block.dollar.latex, string.other.math.latex, punctuation.definition.string.begin.latex</scope>
+</snippet>
