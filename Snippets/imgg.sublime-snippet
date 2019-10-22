@@ -1,6 +1,8 @@
 <snippet>
 <content><![CDATA[
-\$\$\includegraphics[width=0.75\textwidth]{${1:Nome immagine}}\$\$
+\\begin{center}
+\\includegraphics[width=0.75\textwidth]{${1:Nome immagine}}
+\\end{center}
 ]]></content>
 <tabTrigger>imgg</tabTrigger>
 <description>Scrive l'include graphics e basta, senza tutto il casino insomma</description>

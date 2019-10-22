@@ -1,12 +1,13 @@
 <snippet>
 <content><![CDATA[
 \\\
-{\color{black} \rule{\linewidth}{0.3mm} }
-\\\
-\textbf{${1:Titolo}} \\\ \\\
-\$\$\includegraphics[width=0.75\textwidth]{${2:Immagine}}\$\$
+{\color{black} \rule{\linewidth}{0.3mm}}
+\paragraph{${1:Titolo}}
+\\begin{center}
+includegraphics[width=0.75\textwidth]{${2:Immagine}}
+\\end{center}
 ${3:Descrizione} \\\
-{\color{black} \rule{\linewidth}{0.3mm} }
+{\color{black} \rule{\linewidth}{0.3mm}}
 \\\
 ]]></content>
 <tabTrigger>img</tabTrigger>
