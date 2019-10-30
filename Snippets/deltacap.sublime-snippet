@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\widehat{\delta}
+]]></content>
+<tabTrigger>deltacap</tabTrigger>
+<description>Crea automaticamente delta cappuccio</description>
+<scope>text.tex.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

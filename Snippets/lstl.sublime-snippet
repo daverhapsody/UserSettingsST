@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\\begin{lstlisting}[language=${1:Linguaggio}]
+	${2:Codice...}
+\\end{lstlisting}
+]]></content>
+<tabTrigger>lstl</tabTrigger>
+<description>Crea un blocco di codice</description>
+<scope>text.tex.latex, meta.environment.verbatim.lstlisting.latex, support.function.begin.latex, keyword.control.flow.begin.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

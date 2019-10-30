@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\subparagraph{${1:TItolo}}	
+]]></content>
+<tabTrigger>sp</tabTrigger>
+<description>Crea direttamente un subparagraph</description>
+<scope>text.tex.latex, meta.section.latex, support.function.section.latex, punctuation.definition.backslash.latex</scope>
+</snippet>
