@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[
-\star
-]]></content>
-<tabTrigger>**</tabTrigger>
-<description>Crea il comando \star</description>
-<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, meta.group.brace.latex, support.function.math.tex, punctuation.definition.backslash.tex</scope>
-</snippet>
