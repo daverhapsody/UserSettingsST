@@ -7,9 +7,11 @@
 	[
 		"DeleteBlankLines",
 		"Java Velocity",
+		"Javatar",
 		"LaTeX Blindtext",
 		"LaTeX Snippets",
 		"Package Control",
+		"Path Tools",
 		"Prolog",
 		"SnippetMaker",
 		"Terminus"

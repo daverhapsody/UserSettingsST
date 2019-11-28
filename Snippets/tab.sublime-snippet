@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+\\begin{center}
+\\begin{tabular}{ |c|c|c| } 
+ \\hline
+ cell1 & cell2 & cell3 \\\\ 
+ cell4 & cell5 & cell6 \\\\ 
+ cell7 & cell8 & cell9 \\\\ 
+ \hline
+\\end{tabular}
+\\end{center}
+]]></content>
+<tabTrigger>tab</tabTrigger>
+<description>Crea una tabella automatica</description>
+<scope>text.tex.latex, support.function.begin.latex, keyword.control.flow.begin.latex, punctuation.definition.backslash.latex</scope>
+</snippet>

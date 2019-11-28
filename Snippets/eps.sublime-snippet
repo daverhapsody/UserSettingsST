@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\$\epsilon\$
+]]></content>
+<tabTrigger>eps</tabTrigger>
+<description>Scrive diretto un blocco epsilon</description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, string.other.math.latex, punctuation.definition.string.begin.latex</scope>
+</snippet>
