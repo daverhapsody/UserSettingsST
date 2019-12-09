@@ -1,5 +1,5 @@
 {
-    "globals": {}, 
     "variables": {}, 
-    "name": "Terminus"
+    "name": "Terminus", 
+    "globals": {}
 }
