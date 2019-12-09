@@ -13,6 +13,29 @@
 	"message_id": 20,
 	"project_data":
 	{
-		"3": null
+		"9":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/DaveAppunti/Secondo Anno/Fisica"
+				},
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/DaveAppunti/Secondo Anno/Reti e Sistemi Operativi"
+				},
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/DaveAppunti/Secondo Anno/Linguaggi di Programmazione"
+				},
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/DaveAppunti/Secondo Anno/Linguaggi e computabilità"
+				},
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/DaveBreria"
+				},
+				{
+					"path": "/Users/daveskidrow/Documents/OneDrive - Universita degli Studi di Milano-Bicocca/Univeristà/ProgettoLP"
+				}
+			]
+		}
 	}
 }
