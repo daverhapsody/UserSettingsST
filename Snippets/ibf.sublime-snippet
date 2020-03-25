@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+\item \textbf{$1}:
+]]></content>
+<tabTrigger>ibf</tabTrigger>
+<description>Crea una line ite con textbf</description>
+<scope>text.tex.latex, meta.environment.list.itemize.latex, support.function.general.latex, punctuation.definition.backslash.latex</scope>
+</snippet>
