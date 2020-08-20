@@ -1,12 +1,12 @@
 {
-	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"font_size": 12,
 	"gn_hide_tab_dropdown": true,
 	"gn_overlay_scroll_bars": true,
 	"gn_sb_cnvx": true,
 	"gn_sidebar_box": true,
 	"gnc_h18": true,
-	"gnc_m05": true,
+	"gnc_m08": true,
 	"gnc_w3m11": true,
 	"gnwidg1": true,
 	"ignored_packages":
